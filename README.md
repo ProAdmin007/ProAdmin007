@@ -43,11 +43,18 @@
 
 | Project | Wat is het |
 |---|---|
+| [Onderstation-SIM-Pro](https://github.com/ProAdmin007/Onderstation-SIM-Pro) | Realistische 3D-onderstationsimulator (110/10 kV) in de browser met Three.js, SCADA en schakellogica |
 | [Substation-simulator-61850](https://github.com/ProAdmin007/Substation-simulator-61850) | Browsergame voor substation engineering (IEC 61850) |
 | [HA-Custom-Washing-Machine-Card](https://github.com/ProAdmin007/HA-Custom-Washing-Machine-Card) | Custom Lovelace-kaart voor Home Assistant |
 | [SharkJackV2](https://github.com/ProAdmin007/SharkJackV2) | Payloads voor de Hak5 Shark Jack |
 | [Salt_scripts](https://github.com/ProAdmin007/Salt_scripts) | Saltstack-scripts |
 | [PowerShell](https://github.com/ProAdmin007/PowerShell) | Verzameling PowerShell-scripts |
+
+## 🔐 Waar ik mee bezig ben
+
+- Industriële netwerken en protocollen (Modbus, IEC 61850)
+- Threat intelligence en recon-tooling voor OT
+- Homelab: Home Assistant, Ansible, Docker
 
 ---
 
