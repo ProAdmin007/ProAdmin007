@@ -49,12 +49,6 @@
 | [Salt_scripts](https://github.com/ProAdmin007/Salt_scripts) | Saltstack-scripts |
 | [PowerShell](https://github.com/ProAdmin007/PowerShell) | Verzameling PowerShell-scripts |
 
-## 🔐 Waar ik mee bezig ben
-
-- Industriële netwerken en protocollen (Modbus, IEC 61850)
-- Threat intelligence en recon-tooling voor OT
-- Homelab: Home Assistant, Ansible, Docker
-
 ---
 
 <div align="center">
