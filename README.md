@@ -41,14 +41,18 @@
 
 ## 🚀 Projecten
 
+<!-- PROJECTS:START -->
 | Project | Wat is het |
 |---|---|
-| [Onderstation-SIM-Pro](https://github.com/ProAdmin007/Onderstation-SIM-Pro) | Realistische 3D-onderstationsimulator (110/10 kV) in de browser met Three.js, SCADA en schakellogica |
-| [Substation-simulator-61850](https://github.com/ProAdmin007/Substation-simulator-61850) | Browsergame voor substation engineering (IEC 61850) |
-| [HA-Custom-Washing-Machine-Card](https://github.com/ProAdmin007/HA-Custom-Washing-Machine-Card) | Custom Lovelace-kaart voor Home Assistant |
-| [SharkJackV2](https://github.com/ProAdmin007/SharkJackV2) | Payloads voor de Hak5 Shark Jack |
-| [Salt_scripts](https://github.com/ProAdmin007/Salt_scripts) | Saltstack-scripts |
-| [PowerShell](https://github.com/ProAdmin007/PowerShell) | Verzameling PowerShell-scripts |
+| [Groningen050Parkeren-Live](https://github.com/ProAdmin007/Groningen050Parkeren-Live) | Parkeren in Groningen: live kaart met vrije parkeerplaatsen in parkeergarages en P+R-terreinen (Forum, Damsterdiep, Boterdiep, Q-Park, Kardinge, Haren …), met trendanalyse. Open data, React + Leaflet. |
+| [nederlandse-geldstromen](https://github.com/ProAdmin007/nederlandse-geldstromen) | Interactieve kaart: hoeveel geld stroomt er vanuit Nederland naar andere landen, en andersom? Op basis van CBS-cijfers. |
+| [Onderstation-SIM-Pro](https://github.com/ProAdmin007/Onderstation-SIM-Pro) | ⚡ Realistische 3D-onderstationsimulator (110/10/20 kV) in je browser – SCADA-schakelen, storingen, 10 kV-ringen, laagspanning, netcongestie en monteurs. Three.js, geen installatie. |
+| [Substation-simulator-61850](https://github.com/ProAdmin007/Substation-simulator-61850) | A substation engineering focused browser game. |
+| [HA-Custom-Washing-Machine-Card](https://github.com/ProAdmin007/HA-Custom-Washing-Machine-Card) | - |
+| [Substations-sim](https://github.com/ProAdmin007/Substations-sim) | - |
+| [ChangeFileName](https://github.com/ProAdmin007/ChangeFileName) | - |
+| [python_Leren](https://github.com/ProAdmin007/python_Leren) | - |
+<!-- PROJECTS:END -->
 
 ## 🔐 Waar ik mee bezig ben
 
