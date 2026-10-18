@@ -8,6 +8,10 @@
 
 ![Focus](https://img.shields.io/badge/Focus-OT%2FICS_security-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00e676)
 
+<br/><br/>
+
+<a href="https://ko-fi.com/K0L1291K7I" target="_blank"><img height="36" src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" alt="Buy Me a Coffee at ko-fi.com" /></a>
+
 </div>
 
 ---
