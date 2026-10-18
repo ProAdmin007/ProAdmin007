@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="https://ko-fi.com/K0L1291K7I" target="_blank"><img height="60" src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" alt="Buy Me a Coffee at ko-fi.com" /></a>
+<a href="https://ko-fi.com/proadmin007" target="_blank"><img height="60" src="https://storage.ko-fi.com/cdn/kofi2.png?v=6" alt="Buy Me a Coffee at ko-fi.com" /></a>
 
 </div>
 
