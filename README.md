@@ -6,38 +6,11 @@
 
 <br/>
 
-![Locatie](https://img.shields.io/badge/Groningen-NL-00e676?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Hanze](https://img.shields.io/badge/Hanze-student-0d1117?style=for-the-badge&logo=academia&logoColor=00e676)
 ![Focus](https://img.shields.io/badge/Focus-OT%2FICS_security-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00e676)
 
 </div>
 
 ---
-
-## 👋 Over mij
-
-> Ik bouw tools en simulaties op het snijvlak van **energie-infrastructuur** en **cybersecurity**: van onderstations en SCADA tot threat intelligence en attack-surface scanning. 's Avonds knutsel ik aan mijn homelab.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Bezig met
-- Industriële protocollen: **Modbus**, **IEC 61850**
-- Threat intelligence & recon-tooling voor OT
-- Interactieve visualisaties van echte incidenten
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 Homelab
-- Home Assistant (eigen Lovelace-kaarten)
-- Ansible, Docker, vCenter-automatisering
-- Kali in de container via noVNC
-
-</td>
-</tr>
-</table>
 
 ## 🧰 Tech & tools
 
