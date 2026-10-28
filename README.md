@@ -52,6 +52,7 @@
 <!-- PROJECTS:START -->
 | Project | Wat is het |
 |---|---|
+| [linkedin-saved-posts-exporter](https://github.com/ProAdmin007/linkedin-saved-posts-exporter) | Chrome extension to export your saved LinkedIn posts to CSV or JSON — free, open source, 100% local, no servers. |
 | [Poland-Energy-Attack-Visualizer-2025-2026](https://github.com/ProAdmin007/Poland-Energy-Attack-Visualizer-2025-2026) | Interactive, source-grounded reconstruction of the 29 Dec 2025 cyberattacks on the Polish energy sector (wind/solar farms, CHP plants) - attack-path graphs, timeline and filters, built from CERT Polska's public reports. FastAPI + vanilla JS + D3. |
 | [Groningen050Parkeren-Live](https://github.com/ProAdmin007/Groningen050Parkeren-Live) | Parkeren in Groningen: live kaart met vrije parkeerplaatsen in parkeergarages en P+R-terreinen (Forum, Damsterdiep, Boterdiep, Q-Park, Kardinge, Haren …), met trendanalyse. Open data, React + Leaflet. |
 | [nederlandse-geldstromen](https://github.com/ProAdmin007/nederlandse-geldstromen) | Interactieve kaart: hoeveel geld stroomt er vanuit Nederland naar andere landen, en andersom? Op basis van CBS-cijfers. |
@@ -59,7 +60,6 @@
 | [Substation-simulator-61850](https://github.com/ProAdmin007/Substation-simulator-61850) | A substation engineering focused browser game. |
 | [HA-Custom-Washing-Machine-Card](https://github.com/ProAdmin007/HA-Custom-Washing-Machine-Card) | - |
 | [Substations-sim](https://github.com/ProAdmin007/Substations-sim) | - |
-| [ChangeFileName](https://github.com/ProAdmin007/ChangeFileName) | - |
 <!-- PROJECTS:END -->
 
 ## 📊 GitHub stats
