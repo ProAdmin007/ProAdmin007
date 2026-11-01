@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [scripts/update_readme.py]
+    paths: [scripts/**]
 
 permissions:
   contents: write
@@ -22,9 +22,12 @@ jobs:
       - run: python scripts/update_readme.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: python scripts/generate_assets.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet || (git commit -m "Update projects list" && git push)
+          git add README.md assets data
+          git diff --cached --quiet || (git commit -m "Update projects, stats en views-trend" && git pull --rebase -q && git push)

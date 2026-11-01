@@ -40,10 +40,10 @@
 
 <div align="center">
 
-<a href="https://github.com/ProAdmin007/Poland-Energy-Attack-Visualizer-2025-2026"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProAdmin007&repo=Poland-Energy-Attack-Visualizer-2025-2026&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/ProAdmin007/Onderstation-SIM-Pro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProAdmin007&repo=Onderstation-SIM-Pro&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/ProAdmin007/Groningen050Parkeren-Live"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProAdmin007&repo=Groningen050Parkeren-Live&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/ProAdmin007/nederlandse-geldstromen"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProAdmin007&repo=nederlandse-geldstromen&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/ProAdmin007/Poland-Energy-Attack-Visualizer-2025-2026"><img width="49%" src="assets/card-Poland-Energy-Attack-Visualizer-2025-2026.svg" alt="Poland-Energy-Attack-Visualizer-2025-2026" /></a>
+<a href="https://github.com/ProAdmin007/Onderstation-SIM-Pro"><img width="49%" src="assets/card-Onderstation-SIM-Pro.svg" alt="Onderstation-SIM-Pro" /></a>
+<a href="https://github.com/ProAdmin007/Groningen050Parkeren-Live"><img width="49%" src="assets/card-Groningen050Parkeren-Live.svg" alt="Groningen050Parkeren-Live" /></a>
+<a href="https://github.com/ProAdmin007/nederlandse-geldstromen"><img width="49%" src="assets/card-nederlandse-geldstromen.svg" alt="nederlandse-geldstromen" /></a>
 
 </div>
 
@@ -66,12 +66,14 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ProAdmin007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAdmin007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" />
+<img src="assets/stats.svg" alt="GitHub stats" height="232" />
+<img src="assets/langs.svg" alt="Meest gebruikte talen" height="232" />
 
 <img src="https://streak-stats.demolab.com?user=ProAdmin007&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ProAdmin007&theme=tokyo-night&hide_border=true&area=true&color=00e676&line=00e676&point=ffffff" width="100%" />
+<img src="assets/activity.svg" alt="Activiteit" width="100%" />
+
+<img src="assets/views.svg" alt="Profielweergaven trend" width="100%" />
 
 </div>
 
