@@ -40,6 +40,8 @@
 
 <div align="center">
 
+<a href="https://github.com/ProAdmin007/every-it-euro"><img width="49%" src="assets/card-every-it-euro.svg" alt="every-it-euro" /></a>
+<a href="https://github.com/ProAdmin007/carpool-webapp"><img width="49%" src="assets/card-carpool-webapp.svg" alt="carpool-webapp" /></a>
 <a href="https://github.com/ProAdmin007/Poland-Energy-Attack-Visualizer-2025-2026"><img width="49%" src="assets/card-Poland-Energy-Attack-Visualizer-2025-2026.svg" alt="Poland-Energy-Attack-Visualizer-2025-2026" /></a>
 <a href="https://github.com/ProAdmin007/Onderstation-SIM-Pro"><img width="49%" src="assets/card-Onderstation-SIM-Pro.svg" alt="Onderstation-SIM-Pro" /></a>
 <a href="https://github.com/ProAdmin007/Groningen050Parkeren-Live"><img width="49%" src="assets/card-Groningen050Parkeren-Live.svg" alt="Groningen050Parkeren-Live" /></a>
