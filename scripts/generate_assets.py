@@ -9,8 +9,8 @@ import urllib.request
 from xml.sax.saxutils import escape
 
 USER = "ProAdmin007"
-FEATURED = ["Poland-Energy-Attack-Visualizer-2025-2026", "Onderstation-SIM-Pro",
-            "Groningen050Parkeren-Live", "nederlandse-geldstromen"]
+FEATURED = ["every-it-euro", "carpool-webapp", "Poland-Energy-Attack-Visualizer-2025-2026",
+            "Onderstation-SIM-Pro", "Groningen050Parkeren-Live", "nederlandse-geldstromen"]
 BG, BORDER, FG, MUTED, ACCENT = "#0d1117", "#30363d", "#e6edf3", "#8b949e", "#00e676"
 FONT = 'font-family="Segoe UI,Ubuntu,Arial,sans-serif"'
 LANG_COLORS = {"Python": "#3572A5", "JavaScript": "#f1e05a", "TypeScript": "#3178c6", "HTML": "#e34c26",
